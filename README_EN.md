@@ -1,4 +1,13 @@
 # Realm Full-Featured One-Click Network Forwarding Management — Pure Script Relay Server Setup
+# Relay - 端口转发管理工具
+
+> 本项目基于 [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) 定制开发
+
+**原作者**: [zywe03](https://github.com/zywe03)  
+**本定制版**: [dodo258/relay](https://github.com/dodo258/relay)
+
+---
+
 
 [中文](README.md) | [English](README_EN.md) | [Port Traffic Dog Introduction](port-traffic-dog-README.md)
 

@@ -1,4 +1,13 @@
 # Realm 全功能一键网络转发管理,纯脚本快速搭建中转服务器
+# Relay - 端口转发管理工具
+
+> 本项目基于 [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) 定制开发
+
+**原作者**: [zywe03](https://github.com/zywe03)  
+**本定制版**: [dodo258/relay](https://github.com/dodo258/relay)
+
+---
+
 
 [中文](README.md) | [English](README_EN.md) | [端口流量狗脚本介绍](port-traffic-dog-README.md)
 
